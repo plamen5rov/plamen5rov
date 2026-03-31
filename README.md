@@ -8,7 +8,7 @@ Sofia, Bulgaria · Web Developer at SEO.Domains
 [DEV](https://dev.to/plamen5rov) ·
 [Website](https://seo.domains/) ·
 [X](https://twitter.com/Crypto359) ·
-[Email](mailto:biznetmen@gmail.com)
+
 
 ## What I'm building
 
