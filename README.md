@@ -1,5 +1,11 @@
 # 👋 AI builder / web developer
 
+<!-- markdownlint-disable MD033 -->
+<p align="center">
+  <img src="./header-image.jpg" alt="Header banner" width="100%" />
+</p>
+<!-- markdownlint-enable MD033 -->
+
 AI builder and web developer creating practical tools, experiments,
 and content around modern AI workflows.
 
