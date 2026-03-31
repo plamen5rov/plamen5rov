@@ -3,58 +3,50 @@
 AI builder and web developer creating practical tools, experiments,
 and content around modern AI workflows.
 
-Based in **Sofia, Bulgaria**. I work as a
-**Web Developer at SEO.Domains** and spend a lot of time exploring
-**AI agents**, **LLMs**, **TypeScript**, **React**, and faster ways
-to turn ideas into working products.
+Sofia, Bulgaria · Web Developer at SEO.Domains
 
-## What I work on
+[DEV](https://dev.to/plamen5rov) ·
+[Website](https://seo.domains/) ·
+[X](https://twitter.com/Crypto359) ·
+[Email](mailto:biznetmen@gmail.com)
+
+## What I'm building
 
 - AI-powered apps and experiments
 - Developer tools for faster building and learning
-- Frontend products with React / Next.js / TypeScript
-- Content about AI-assisted development and modern coding workflows
+- Frontend products with React, Next.js, and TypeScript
+- Content about AI-assisted development and coding workflows
 
-## Tech stack
+## Stack
 
-### Languages & tools
+`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Python`
+`Solidity`
 
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Python` `Solidity`
+## Featured projects
 
-## Featured work
+- [**LLM-Matcher**](https://github.com/plamen5rov/LLM-Matcher) —
+  matches LLM models to real hardware constraints
+- [**youtube-feed**](https://github.com/plamen5rov/youtube-feed) —
+  searches large YouTube subscription lists by topic
+- [**vibe-coding-playbook**](
+  https://github.com/plamen5rov/vibe-coding-playbook) —
+  notes on context-driven development with
+  AI tools
+- [**hf_helper**](https://github.com/plamen5rov/hf_helper) —
+  experiments and utilities for working with Hugging Face models
 
-- **LLM-Matcher** — a tool for matching LLM models to real hardware constraints
-- **youtube-feed** — a YouTube search tool built to find topics
-  across large subscription lists
-- **vibe-coding-playbook** — writing and ideas on context-driven
-  development with AI tools
-- **hf_helper** — experiments and utilities for working with Hugging Face models
-
-## Current focus
+## Now
 
 - Building AI agents and small useful tools
 - Sharing what I learn about AI-assisted coding
-- Improving my portfolio around AI, developer tools, and product experiments
+- Improving my portfolio around AI, developer tools, and product
+  experiments
 
 ## Writing
 
-I write about AI, web development, coding tools, and building with modern AI workflows.
-
-- [DEV Community](https://dev.to/plamen5rov)
-
-## Interests
-
-- AI agents
-- LLM tools
-- developer productivity
-- vibe coding workflows
-- practical product experiments
-
-## Connect
-
-- GitHub: [@plamen5rov](https://github.com/plamen5rov)
-- Website: [seo.domains](https://seo.domains/)
-- X: [@Crypto359](https://twitter.com/Crypto359)
-- Email: [biznetmen@gmail.com](mailto:biznetmen@gmail.com)
-
-
+- [The Vibe Coding Playbook: A Jungle Guide for the Context-Driven
+  Developer](https://dev.to/plamen5rov/the-vibe-coding-playbook-a-jungle-guide-for-the-context-driven-developer-3jnp)
+- [I Built a YouTube Search Tool for My 887 Subscriptions in Just Over
+  an Hour](https://dev.to/plamen5rov/i-built-a-youtube-search-tool-for-my-887-subscriptions-in-just-over-an-hour-with-opencode-79m)
+- [OpenCode's verdict: VS Code vs. Cursor vs.
+  Antigravity](https://dev.to/plamen5rov/opencodes-verdict-vs-code-vs-cursor-vs-antigravity-5568)
