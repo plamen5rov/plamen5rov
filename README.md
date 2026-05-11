@@ -9,50 +9,49 @@
 AI builder and web developer creating practical tools, experiments,
 and content around modern AI workflows.
 
-Sofia, Bulgaria · Web Developer at SEO.Domains
+Sofia, Bulgaria · Web Developer at [SEO.Domains](https://seo.domains/)
 
 📝 [DEV](https://dev.to/plamen5rov) ·
-🌐 [Website](https://seo.domains/) ·
-𝕏 [X](https://twitter.com/Crypto359)
+💼 [LinkedIn](https://linkedin.com/in/plamen5rov) ·
+📧 [biznetmen@gmail.com](mailto:biznetmen@gmail.com)
 
 ## 🚀 What I'm building
 
-- AI-powered apps and experiments
-- Developer tools for faster building and learning
-- Frontend products with React, Next.js, and TypeScript
-- Content about AI-assisted development and coding workflows
+- **AI-powered tools** — apps that pair LLMs with real-world workflows
+- **Developer utilities** — smaller tools that remove friction in daily coding
+- **Frontend products** — React, Next.js, and TypeScript with clean UX
+- **Content on AI-assisted dev** — what works, what doesn't, and practical patterns
 
 ## 🛠️ Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ## ✨ Featured projects
 
-- 🤖 [**LLM-Matcher**](https://github.com/plamen5rov/LLM-Matcher) —
-  matches LLM models to real hardware constraints
+- 📘 [**vibe-coding-playbook**](https://github.com/plamen5rov/vibe-coding-playbook) —
+  community guide for context-driven development with AI tools (★15)
+- 📊 [**github-dashboard**](https://github.com/plamen5rov/github-dashboard) —
+  filter GitHub trending by language, license, stars, topics, and more
 - 📺 [**youtube-feed**](https://github.com/plamen5rov/youtube-feed) —
-  searches large YouTube subscription lists by topic
-- 📘 [**vibe-coding-playbook**](
-  https://github.com/plamen5rov/vibe-coding-playbook) —
-  notes on context-driven development with
-  AI tools
+  search hundreds of YouTube subscriptions by topic (★3)
+- 🤖 [**LLM-Matcher-with-Google-AI-Studio**](https://github.com/plamen5rov/LLM-Matcher-with-Google-AI-Studio) —
+  find your LLM model soulmate for your hardware
 - 🤗 [**hf_helper**](https://github.com/plamen5rov/hf_helper) —
-  experiments and utilities for working with Hugging Face models
+  utilities for working with Hugging Face models
 
 ## 🔭 Now
 
-- Building AI agents and small useful tools
-- Sharing what I learn about AI-assisted coding
-- Improving my portfolio around AI, developer tools, and product
-  experiments
+- Building [github-dashboard](https://github.com/plamen5rov/github-dashboard) — my most active open-source project
+- Sharing practical patterns for AI-assisted development
+- Experimenting with AI agents and LLM tooling
 
 ## ✍️ Writing
 
