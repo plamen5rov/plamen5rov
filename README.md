@@ -1,4 +1,4 @@
-# 👋 AI builder / web developer
+# 👋 Full-stack developer focused on practical AI
 
 <!-- markdownlint-disable MD033 -->
 <p align="center">
@@ -6,14 +6,23 @@
 </p>
 <!-- markdownlint-enable MD033 -->
 
-AI builder and web developer creating practical tools, experiments,
-and content around modern AI workflows.
+Full-stack developer focused on practical AI. I build tools that help developers work faster, smarter, and with less friction. React, TypeScript, Python, LLMs — whatever gets the ship out.
 
 Sofia, Bulgaria · Web Developer at [SEO.Domains](https://seo.domains/) · ⚡ Open for consulting & freelance
 
 📝 [DEV](https://dev.to/plamen5rov) ·
 💼 [LinkedIn](https://linkedin.com/in/plamen5rov) ·
 📧 [biznetmen@gmail.com](mailto:biznetmen@gmail.com)
+
+<!-- markdownlint-disable MD033 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=plamen5rov&show_icons=true&theme=default" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plamen5rov&layout=compact&theme=default" alt="Top languages" height="165" />
+</p>
+<p align="center">
+  <strong>★ 30+ stars across open-source projects · 3 stories on dev.to</strong>
+</p>
+<!-- markdownlint-enable MD033 -->
 
 ## 🚀 What I'm building
 
@@ -24,15 +33,18 @@ Sofia, Bulgaria · Web Developer at [SEO.Domains](https://seo.domains/) · ⚡ O
 
 ## 🛠️ Stack
 
+**Languages**<br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+**Frontend**<br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+**Backend & AI**<br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ## ✨ Featured projects
 
@@ -57,3 +69,15 @@ Sofia, Bulgaria · Web Developer at [SEO.Domains](https://seo.domains/) · ⚡ O
   an Hour](https://dev.to/plamen5rov/i-built-a-youtube-search-tool-for-my-887-subscriptions-in-just-over-an-hour-with-opencode-79m)
 - [OpenCode's verdict: VS Code vs. Cursor vs.
   Antigravity](https://dev.to/plamen5rov/opencodes-verdict-vs-code-vs-cursor-vs-antigravity-5568)
+
+## 📈 Activity
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=plamen5rov&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=plamen5rov&theme=flat&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📫 Let's connect
+
+💼 Open for consulting, freelance, and collaboration on AI and developer tooling projects.
+
+Drop me a message on [DEV](https://dev.to/plamen5rov), [LinkedIn](https://linkedin.com/in/plamen5rov), or [email](mailto:biznetmen@gmail.com).
