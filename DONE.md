@@ -23,3 +23,16 @@ Files modified: `README.md`
   - Add "Let's connect" CTA section at bottom
 
 Files modified: `README.md`
+
+- Phase 2 — Repo fixes across all keeper repos:
+  - Fix description typo "giude"→"guide" in vibe-coding-playbook
+  - Fix description typo "HugginFace"→"HuggingFace" in hf_helper
+  - Fix README typos "beter"→"better", "destop"→"desktop" in presidents-quiz-gemini-cli
+  - Remove "SORRY for the typo" apology note from dev-hourney-roadmap README
+  - Rename dev-hourney-roadmap → dev-journey-roadmap
+  - Rename LLM-Matcher-with-Google-AI-Studio → llm-matcher
+  - Update stale repo URLs in llm-matcher README
+  - Add descriptions to opencode-devkit, devkit-for-opencode, presidents-quiz-gemini-cli, dev-journey-roadmap
+  - Add topics to all 9 keeper repos
+  - Add MIT license to 7 repos (youtube-feed, opencode-devkit, devkit-for-opencode, dev-journey-roadmap, presidents-quiz-gemini-cli, llm-matcher, hf_helper)
+  - Fix homepage URL in dev-journey-roadmap (vercel link)
