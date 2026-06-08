@@ -16,8 +16,7 @@ Sofia, Bulgaria · Web Developer at [SEO.Domains](https://seo.domains/) · ⚡ O
 
 <!-- markdownlint-disable MD033 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=plamen5rov&show_icons=true&theme=default" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plamen5rov&layout=compact&theme=default" alt="Top languages" height="165" />
+  <img src="https://ghchart.rshah.org/plamen5rov" alt="GitHub contribution chart" width="100%" />
 </p>
 <p align="center">
   <strong>★ 30+ stars across open-source projects · 3 stories on dev.to</strong>
@@ -74,7 +73,6 @@ Sofia, Bulgaria · Web Developer at [SEO.Domains](https://seo.domains/) · ⚡ O
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=plamen5rov&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=plamen5rov&theme=flat&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Let's connect
 
