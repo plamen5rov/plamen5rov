@@ -53,6 +53,8 @@ Sofia, Bulgaria · Web Developer at [SEO.Domains](https://seo.domains/) · ⚡ O
   filter GitHub trending by language, license, stars, topics, and more (★12)
 - 📺 [**youtube-feed**](https://github.com/plamen5rov/youtube-feed) —
   search hundreds of YouTube subscriptions by topic (★3)
+- 🃏 [**presidents-quiz**](https://github.com/plamen5rov/presidents-quiz-gemini-cli) —
+  US presidents quiz powered by Gemini — [play](https://presidents-quiz-one.vercel.app) (★2)
 
 ## 🔭 Now
 
