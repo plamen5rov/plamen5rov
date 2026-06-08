@@ -9,7 +9,7 @@
 AI builder and web developer creating practical tools, experiments,
 and content around modern AI workflows.
 
-Sofia, Bulgaria · Web Developer at [SEO.Domains](https://seo.domains/)
+Sofia, Bulgaria · Web Developer at [SEO.Domains](https://seo.domains/) · ⚡ Open for consulting & freelance
 
 📝 [DEV](https://dev.to/plamen5rov) ·
 💼 [LinkedIn](https://linkedin.com/in/plamen5rov) ·
