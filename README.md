@@ -19,7 +19,7 @@ Sofia, Bulgaria · Web Developer at [SEO.Domains](https://seo.domains/) · ⚡ O
   <img src="https://ghchart.rshah.org/plamen5rov" alt="GitHub contribution chart" width="100%" />
 </p>
 <p align="center">
-  <strong>★ 30+ stars across open-source projects · 3 stories on dev.to</strong>
+  <strong>★ 35+ stars across open-source projects · 3 stories on dev.to</strong>
 </p>
 <!-- markdownlint-enable MD033 -->
 
@@ -48,9 +48,9 @@ Sofia, Bulgaria · Web Developer at [SEO.Domains](https://seo.domains/) · ⚡ O
 ## ✨ Featured projects
 
 - 📘 [**vibe-coding-playbook**](https://github.com/plamen5rov/vibe-coding-playbook) —
-  community guide for context-driven development with AI tools (★15)
+  community guide for context-driven development with AI tools (★20)
 - 📊 [**github-dashboard**](https://github.com/plamen5rov/github-dashboard) —
-  filter GitHub trending by language, license, stars, topics, and more
+  filter GitHub trending by language, license, stars, topics, and more (★12)
 - 📺 [**youtube-feed**](https://github.com/plamen5rov/youtube-feed) —
   search hundreds of YouTube subscriptions by topic (★3)
 
