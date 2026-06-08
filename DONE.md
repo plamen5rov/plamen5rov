@@ -36,3 +36,8 @@ Files modified: `README.md`
   - Add topics to all 9 keeper repos
   - Add MIT license to 7 repos (youtube-feed, opencode-devkit, devkit-for-opencode, dev-journey-roadmap, presidents-quiz-gemini-cli, llm-matcher, hf_helper)
   - Fix homepage URL in dev-journey-roadmap (vercel link)
+
+- Fix broken external icons:
+  - Replace broken `github-readme-stats` (503) and `top-langs` cards with `ghchart.rshard.org` contribution chart
+  - Remove broken `github-profile-trophy` (402 Payment Required)
+  - Activity graph (github-readme-activity-graph) kept — still working
