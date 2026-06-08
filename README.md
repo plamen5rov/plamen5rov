@@ -42,10 +42,6 @@ Sofia, Bulgaria · Web Developer at [SEO.Domains](https://seo.domains/)
   filter GitHub trending by language, license, stars, topics, and more
 - 📺 [**youtube-feed**](https://github.com/plamen5rov/youtube-feed) —
   search hundreds of YouTube subscriptions by topic (★3)
-- 🤖 [**LLM-Matcher-with-Google-AI-Studio**](https://github.com/plamen5rov/LLM-Matcher-with-Google-AI-Studio) —
-  find your LLM model soulmate for your hardware
-- 🤗 [**hf_helper**](https://github.com/plamen5rov/hf_helper) —
-  utilities for working with Hugging Face models
 
 ## 🔭 Now
 
