@@ -41,3 +41,6 @@ Files modified: `README.md`
   - Replace broken `github-readme-stats` (503) and `top-langs` cards with `ghchart.rshard.org` contribution chart
   - Remove broken `github-profile-trophy` (402 Payment Required)
   - Activity graph (github-readme-activity-graph) kept — still working
+
+- Archive 53 flagged repos (forks, empty repos, tutorials, abandoned — all were already archived)
+- Pin 6 repos to profile: vibe-coding-playbook, github-dashboard, opencode-devkit, devkit-for-opencode, youtube-feed, dev-journey-roadmap
