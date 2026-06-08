@@ -44,3 +44,9 @@ Files modified: `README.md`
 
 - Archive 53 flagged repos (forks, empty repos, tutorials, abandoned — all were already archived)
 - Pin 6 repos to profile: vibe-coding-playbook, github-dashboard, opencode-devkit, devkit-for-opencode, youtube-feed, dev-journey-roadmap
+
+- Final review fixes:
+  - Update vibe-coding-playbook star count in README: ★15 → ★20
+  - Add missing star count for github-dashboard: ★12
+  - Update impact line: ★30+ → ★35+
+  - Fix account bio (manual — needs browser auth)
